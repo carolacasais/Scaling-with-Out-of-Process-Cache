@@ -1,5 +1,6 @@
 # Scaling-with-Out-of-Process-Cache
 
-![imagen](img1.png)
-![imagen](img2.png)
-![imagen](img3.png)
+![imagen](img.1png.png)
+![imagen](img.2png.png)
+![imagen](img.3png.png)
+![imagen](img.4png.png)
